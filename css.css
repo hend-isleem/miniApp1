@@ -1,0 +1,130 @@
+body {
+    background-image: url('https://www.thecinemaholic.com/wp-content/uploads/2018/07/84963__20571.1477059381-1024x500.jpg');
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+body *{    
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+#a1{
+    padding:100px;
+    border:purple 3px solid;
+    border-top: none;
+    border-left: none;
+    background-color: pink;
+    font-size: 50px;
+    color:pink;
+}
+#a2{
+    padding:100px;
+    border:purple 3px solid;
+    border-top: none;
+    background-color: pink;
+    font-size: 50px;
+    color:pink;
+}
+#a3{
+    padding:100px;
+    border:purple 3px solid;
+    border-top: none;
+    border-right: none;
+    background-color: pink;
+    font-size: 50px;
+    color:pink;
+}
+#a4{
+    padding:100px;
+    border:purple 3px solid;
+    border-left: none;
+    background-color: pink;
+    font-size: 50px;
+    color:pink;
+}
+#a5{
+    padding:100px;
+    border:purple 3px solid;
+    background-color: pink;
+    font-size: 50px;
+    color:pink;
+}
+#a6{
+    padding:100px;
+    border:purple 3px solid;
+    border-right: none;
+    background-color: pink;
+    font-size: 50px;
+    color:pink;
+}
+#a7{
+    padding:100px;
+    border:purple 3px solid;
+    border-bottom: none;
+    border-left: none;
+    background-color: pink;
+    font-size: 50px;
+    color:pink;
+}
+#a8{
+    padding:100px;
+    border:purple 3px solid;
+    border-bottom: none;
+    background-color: pink;
+    font-size: 50px;
+    color:pink;
+}
+#a9{
+    padding:100px;
+    border:purple 3px solid;
+    border-bottom: none;
+    border-right: none;
+    background-color: pink;
+    font-size: 50px;
+    color:pink;
+}
+.word1{
+    font-size: 100px;
+    margin-right:100px;
+    color: violet;
+    text-shadow: 5px 5px 10px blue;
+}
+.word2{
+    font-size: 100px;
+    margin-right:100px;
+    color: violet;
+    text-shadow: 5px 5px 10px red;
+}
+.word3{
+    font-size: 100px;
+    margin-right:100px;
+    color: violet;
+    text-shadow: 5px 5px 10px gold;
+}
+.word4{
+    font-size: 100px;
+    margin-left:100px;
+    color: violet;
+    text-shadow: 5px 5px 10px cyan;
+}
+.word5{
+    font-size: 100px;
+    margin-left:100px;
+    color: violet;
+    text-shadow: 5px 5px 10px red ;
+}
+.word6{
+    font-size: 100px;
+    margin-left:100px;
+    color: violet;
+    text-shadow: 5px 5px 10px orange;
+}
+#b1{
+    color:pink;
+    background-color: purple;
+    border-radius: 12px;
+    height:30px;
+    width:400px;
+    outline: none;
+}
